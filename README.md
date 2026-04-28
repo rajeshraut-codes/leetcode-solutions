@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
 | ------- |
