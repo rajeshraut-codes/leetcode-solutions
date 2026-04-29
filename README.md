@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Two Pointers
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
