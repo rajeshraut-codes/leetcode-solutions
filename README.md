@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
