@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
