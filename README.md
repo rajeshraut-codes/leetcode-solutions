@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
