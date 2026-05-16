@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
