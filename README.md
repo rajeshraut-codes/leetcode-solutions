@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2574-left-and-right-sum-differences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
