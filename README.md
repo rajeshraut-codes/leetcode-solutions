@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -123,8 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
