@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
