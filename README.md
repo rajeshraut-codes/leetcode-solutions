@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
