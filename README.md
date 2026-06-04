@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0566-reshape-the-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
