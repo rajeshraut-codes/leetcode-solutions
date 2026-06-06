@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0050-powx-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2578-split-with-minimum-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
