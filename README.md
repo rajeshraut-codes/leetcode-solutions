@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0050-powx-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2578-split-with-minimum-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
@@ -191,9 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
