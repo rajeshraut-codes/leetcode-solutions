@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -202,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
