@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3668-restore-finishing-order](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
