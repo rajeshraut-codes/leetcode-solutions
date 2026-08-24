@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0066-plus-one) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2578-split-with-minimum-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
