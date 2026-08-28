@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2578-split-with-minimum-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
