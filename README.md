@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3871-count-commas-in-range-ii](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
