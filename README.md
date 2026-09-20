@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/rajeshraut-codes/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
